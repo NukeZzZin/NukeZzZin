@@ -3,7 +3,7 @@
 
 I am a programming student, i am always looking to learn more & more about the tech world.
 
-## 🔭 I'm always looking to learn more.
+#### 🔭 I'm always looking to learn more.
 
 ## <strong> ⚡ Languages and Tools : </strong>
 
