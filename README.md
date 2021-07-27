@@ -1,11 +1,11 @@
 
-## 🌍 Hello everyone, I'm [Nuke](https://discord.com/channels/@me/275413930413654017)! 👋
+# 🌍 Hello everyone, I'm [Nuke](https://discord.com/channels/@me/275413930413654017)! 👋
 
 I am a programming student, i am always looking to learn more & more about the tech world.
 
-#### 🔭 I'm always looking to learn more.
+## 🔭 I'm always looking to learn more.
 
-#### <strong> ⚡ Languages and Tools : </strong>
+## <strong> ⚡ Languages and Tools : </strong>
 
 Here are a few things I've picked up along my learning journey.
 
@@ -13,6 +13,6 @@ Here are a few things I've picked up along my learning journey.
 
 ---
 
-#### 📫 Get in touch
+## 📫 Get in touch
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/275413930413654017) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuke_zin) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/NukeXV)
