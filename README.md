@@ -14,3 +14,10 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/NukeZzZin/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/275413930413654017) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuke_zin) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/NukeXV) [![Youtbe](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOTAb5P3_4X6MDpUKhNVrIw)
+
+## 🤝 Github Analytics
+
+
+<a href="https://github.com/NukeZzZin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NukeZzZin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
