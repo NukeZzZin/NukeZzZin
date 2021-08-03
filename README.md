@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/NukeZzZin/NukeZzZin/main/assets/styles.css">
 
 <a href="https://github.com/NukeZzZin/"><img class="PIC_PROFILE" align="right" alt="NukeZzZin" src="https://cdn.discordapp.com/attachments/852703836819685447/872062890104983612/ezgif.com-gif-maker.gif">
+</a>
 
 # 🌍 Hello everyone, I'm [Nuke](https://discord.com/channels/@me/275413930413654017)! 👋
 
