@@ -1,4 +1,6 @@
-<a href="https://github.com/NukeZzZin/"><img align="right" alt="NukeZzZin" src="https://cdn.discordapp.com/attachments/852703836819685447/872062890104983612/ezgif.com-gif-maker.gif">
+<link rel="stylesheet" href="">
+
+<a href="https://github.com/NukeZzZin/"><img style="border-radius: 20px;" align="right" alt="NukeZzZin" src="https://cdn.discordapp.com/attachments/852703836819685447/872062890104983612/ezgif.com-gif-maker.gif">
 
 # 🌍 Hello everyone, I'm [Nuke](https://discord.com/channels/@me/275413930413654017)! 👋
 
