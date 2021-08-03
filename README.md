@@ -19,4 +19,4 @@ Here are a few things I've picked up along my learning journey.
 
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/NukeZzZin/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/275413930413654017) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuke_zin) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/NukeXV) [![Youtbe](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOTAb5P3_4X6MDpUKhNVrIw) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nukezzzin@gmail.com)
  
-![](https://github.com/NukeZzZin/NukeZzZin/blob/main/assets/bottom_header.svg)
+[![GitHub](https://github.com/NukeZzZin/NukeZzZin/blob/main/assets/bottom_header.svg)](https://github.com/NukeZzZin/)
