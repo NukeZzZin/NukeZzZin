@@ -1,7 +1,9 @@
+<a href="https://github.com/NukeZzZin/"><img align="right" alt="NukeZzZin" src="https://cdn.discordapp.com/attachments/852703836819685447/872062890104983612/ezgif.com-gif-maker.gif">
 
 # 🌍 Hello everyone, I'm [Nuke](https://discord.com/channels/@me/275413930413654017)! 👋
 
 I am a programming student, i am always looking to learn more & more about the tech world.
+
 
 #### 🔭 I'm always looking to learn more.
 
