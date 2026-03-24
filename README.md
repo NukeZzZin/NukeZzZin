@@ -4,7 +4,7 @@
 	<img class="PIC_PROFILE" align="right" alt="NukeZzZin" style="width: 128px; height: 128px;" src="https://github.com/NukeZzZin/NukeZzZin/blob/main/assets/bar_gif.gif?raw=true">
 </a>
 
-# 🌍 Hello everyone, I'm [Nuke](mailto:nukezzzin@gmail.com)! 👋
+# 🌍 Hello everyone, I'm [Contin](mailto:nukezzzin@gmail.com)! 👋
 
 I am a programming student, i am always looking to learn more & more about the tech world.
 
