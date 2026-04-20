@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/NukeZzZin/NukeZzZin/main/assets/styles.css">
 
 <a href="https://github.com/NukeZzZin/">
-	<img class="PIC_PROFILE" align="right" alt="NukeZzZin" style="width: 128px; height: 128px;" src="https://github.com/NukeZzZin/NukeZzZin/blob/main/assets/bar_gif.gif?raw=true">
+	<img class="PIC_PROFILE" width="128px" height="128px" align="right" alt="NukeZzZin" style="width: 128px; height: 128px;" src="https://github.com/NukeZzZin/NukeZzZin/blob/main/assets/bar_gif.gif?raw=true">
 </a>
 
 # 🌍 Hello everyone, I'm [Contin](mailto:nukezzzin@gmail.com)! 👋
